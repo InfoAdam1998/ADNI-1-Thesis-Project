@@ -1,0 +1,34 @@
+# Dependencies list
+
+# Essential for running jupyter notebooks
+ipykernel
+
+# Essential for for handling environment variables
+python-dotenv
+
+# Essential DS Oriented Libraries
+pandas
+numpy
+scipy
+pingouin
+seaborn
+matplotlib
+feature-engine
+openpyxl
+
+# Essential ML Oriented Libraries
+scikit-learn
+optuna
+tensorflow
+keras
+xgboost
+ngboost
+fancyimpute 
+nbformat
+shap
+neurocombat_sklearn
+pycombat
+combat
+neuroHarmonize
+nibabel
+neuroCombat
